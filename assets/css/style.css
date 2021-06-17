@@ -70,7 +70,14 @@ p {
   font-size: 16px;
 }
 
-/* Embeds and configures the large image directly below the navigation links */
+/* 
+   Sets the height of the image to 800px;
+   Sets the width of the image to be the same as its containing block which is the article block;
+   Creates a margin of 25px and add it to the bottom of the image;
+   Gets the url of the picture;
+   Specifies that the images covers the entire article block;
+   Centers the image inside the article block
+*/
 .hero {
   height: 800px;
   width: 100%;
@@ -95,7 +102,8 @@ the containing block( in this case the main tags ). */
    Sets the height of the section to be 300px;
    Sets the font family of the text inside the section;
    Sets the background color of the section to be blue;
-   Sets the text color inside the section to be white. */
+   Sets the text color inside the section to be white. 
+*/
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -287,7 +295,7 @@ footer {
   text-align: center;
 }
 
-/* Sets the size of the header in the footer tags to be 20px. */
+/* Sets the size of the h4 header in the footer tags to be 20px. */
 footer h4 {
   font-size: 20px;
 }
