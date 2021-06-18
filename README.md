@@ -31,7 +31,7 @@ The site also contains a sidebar that aids in messaging into the potential clien
 
 ## Links
 
-Link to deployed site: https://hugh18019.github.io/Code-Refactor/
+Link to deployed site: https://hugh18019.github.io/Code-Refactor/ \
 Link to code repo: https://github.com/hugh18019/Code-Refactor
 
 ## License & copyright
