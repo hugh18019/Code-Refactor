@@ -10,12 +10,12 @@ To view the published site through a browser, simply click on this link "https:/
 
 ## Technology Used
 
-The index.html file of the project uses semantic html tages to replace previous html tags that were generic without meanings.
+The index.html file of the project uses the Hypertext Markup Language( HTML ) along with semantic html tags to replace previous html tags that were generic without meanings. \
 The style.css uses css to select tags used by the index.html file to apply styles and manipulations to them to achieve the required look of the website.
 
 ## Main Features
 
-The main feature of the website is the provided navigatation bar at the top of the site. Each button in the navigation bar once clicked can jump to different sections of the site to provide the user with more information that.
+The main feature of the website is the provided navigatation bar at the top of the site. Each button in the navigation bar once clicked can jump to different sections of the site to provide the user with more information that. It is the main area of interactivity of the site.
 
 Here is a few screenshots of this feature:
 
