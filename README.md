@@ -19,10 +19,10 @@ The main feature of the website is the provided navigatation bar at the top of t
 
 Here is a few screenshots of this feature:
 
-![GitHub Logo](Navigation_Bar.png)
+![Navi Bar](Navigation_Bar.png)
 Format: ![Alt Text](url)
 
-![GitHub Logo](Destinations.png)
+![Dest](Destinations.png)
 Format: ![Alt Text](url)
 
 Other features of the website contain embedded images that help in the delivery of the company's objectives and strengths.
